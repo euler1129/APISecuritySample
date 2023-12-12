@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: my-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: api-security
+          uri: http://localhost:8080
+          predicates:
+            - Path=/pub/api/**
+          filters:
+            - StripPrefix=1
