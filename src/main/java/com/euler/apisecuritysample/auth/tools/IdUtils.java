@@ -6,8 +6,12 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * 描述: Twitter的分布式自增ID雪花算法snowflake (Java版)
- **/
+ * Author: xjf
+ * Version: 1.0.0
+ * Description: Twitter的分布式自增ID雪花算法snowflake
+ * CreateDateTime: 2023-12-12
+ */
+
 public class IdUtils {
     /**
      * 起始的时间戳

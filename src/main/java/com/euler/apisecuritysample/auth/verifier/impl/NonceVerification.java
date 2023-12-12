@@ -8,6 +8,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import java.util.Objects;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 @Component
 public class NonceVerification implements SecurityVerification {
 

@@ -4,6 +4,13 @@ import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 @Slf4j
 public class GeneralToolsTest {
 

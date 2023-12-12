@@ -5,6 +5,13 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

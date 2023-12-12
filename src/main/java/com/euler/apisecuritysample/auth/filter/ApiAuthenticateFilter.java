@@ -16,8 +16,14 @@ import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-
 import java.util.Arrays;
+
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
 
 @Component
 public class ApiAuthenticateFilter implements GlobalFilter, Ordered {

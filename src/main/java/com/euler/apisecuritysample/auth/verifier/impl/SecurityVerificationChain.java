@@ -7,6 +7,13 @@ import org.springframework.stereotype.Component;
 import javax.annotation.Resource;
 import java.util.List;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 @Component
 public class SecurityVerificationChain {
     @Resource

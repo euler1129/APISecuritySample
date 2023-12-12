@@ -10,6 +10,13 @@ import org.springframework.web.server.ServerWebExchange;
 
 import java.util.Objects;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 public class PublicApiAuthenticator implements ApiAuthenticator {
 
     @Override

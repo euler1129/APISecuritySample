@@ -5,6 +5,13 @@ import com.euler.apisecuritysample.auth.authenticator.ApiAuthenticator;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 public class ApiAuthenticatorFactory {
 
     private static final String PUBLIC_PATH = "pub";

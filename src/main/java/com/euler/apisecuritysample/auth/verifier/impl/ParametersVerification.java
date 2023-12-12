@@ -6,6 +6,13 @@ import com.euler.apisecuritysample.auth.model.RequestData;
 import org.springframework.stereotype.Component;
 import java.util.Objects;
 
+/**
+ * Author: xjf
+ * Version: 1.0.0
+ * Description:
+ * CreateDateTime: 2023-12-12
+ */
+
 @Component
 public class ParametersVerification implements SecurityVerification {
     @Override
